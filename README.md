@@ -155,7 +155,6 @@ Contribuições são bem-vindas! Sente-te à vontade para:
 
 - 📧 Email: danielfilipeotsoares@email.com
 - 💼 GitHub: [@DanieLfotSoares](https://github.com/DanieLfotSoares)
-- 🌐 Website: [danielsoares.dev](https://danielsoares.dev)
 
 ---
 
