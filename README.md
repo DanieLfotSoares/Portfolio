@@ -2,7 +2,6 @@
 
 Um portfólio moderno e responsivo desenvolvido para showcasing de projetos e competências técnicas como estudante de Engenharia Informática.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Portfolio+Preview)
 
 ## 🚀 Demo
 
