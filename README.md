@@ -66,22 +66,6 @@ portf/
 - Links para redes sociais
 - Design centrado e elegante
 
-## 🚀 Como Usar
-
-1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/DanieLfotSoares/portfolio.git
-   ```
-
-2. **Navega para a pasta**
-   ```bash
-   cd portfolio
-   ```
-
-3. **Abre o ficheiro**
-   - Simplesmente abre `index.html` no teu browser
-   - Ou usa um servidor local como Live Server (VS Code)
-
 ## 🎨 Personalização
 
 ### Cores
@@ -95,15 +79,6 @@ As cores podem ser facilmente alteradas no ficheiro `css/style.css` através das
   /* ... outras variáveis */
 }
 ```
-
-### Conteúdo
-- Edita `index.html` para alterar textos e informações
-- Substitui os links dos projetos pelos teus
-- Atualiza as meta tags com as tuas informações
-
-### Imagens
-- Adiciona as tuas imagens na pasta `img/`
-- Atualiza os caminhos no HTML/CSS conforme necessário
 
 ## 📱 Responsividade
 
