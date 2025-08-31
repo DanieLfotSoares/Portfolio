@@ -459,17 +459,21 @@ a:hover {
 }
 
 #contacto {
-
   text-align: center;
   background: var(--gradiente-card);
   border-radius: var(--border-radius);
-  margin: 40px 15%;
+  margin: 40px auto;
+  max-width: 800px;
   padding: 60px 40px;
   border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 #contacto h2 {
   margin-bottom: 25px;
+}
+
+#contacto h2::after {
+  width: 100%;
 }
 
 #contacto p {
